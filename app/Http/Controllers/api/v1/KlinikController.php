@@ -213,7 +213,7 @@ class KlinikController extends Controller
 
 	public function manipulasiAngka(Request $request)
 	{
-		$bilangan = '10113199';
+	   $bilangan = '10113199';
 	  $angka = array('0','0','0','0','0','0','0','0','0','0',
 	                 '0','0','0','0','0','0');
 	  $kata = array('','satu','dua','tiga','empat','lima',

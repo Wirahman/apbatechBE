@@ -10,3 +10,11 @@ read data klinik by kduser = http://localhost:8000/api/v1/klinik/{kduser} (Get)
 
 Github
 https://github.com/Wirahman/apbatechBE
+
+Nomor 3
+gunakan api = http://localhost:8000/api/v1/klinik/ubaharray
+*Nilai $string1 dan $string1 diubah secara statis di syntax
+
+Nomor 4 = -
+Nomor 5 = http://localhost:8000/api/v1/klinik/manipulasiAngka
+*angka yang ingin dicetak disetting di $bilangan secara statis
