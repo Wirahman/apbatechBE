@@ -7,3 +7,6 @@ update data klinik = http://localhost:8000/api/v1/klinik/update (Post)
 delete data klinik = 
 read data klinik = http://localhost:8000/api/v1/klinik (Get)
 read data klinik by kduser = http://localhost:8000/api/v1/klinik/{kduser} (Get)
+
+Github
+https://github.com/Wirahman/apbatechBE

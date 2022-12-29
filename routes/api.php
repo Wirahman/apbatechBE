@@ -22,7 +22,7 @@ Route::post('/v1/posts/store', 'api\v1\PostsController@store');
 Route::post('/v1/klinik/create', 'api\v1\KlinikController@store');
 Route::post('/v1/klinik/update', 'api\v1\KlinikController@update');
 Route::delete('/v1/klinik/{kduser?}', 'api\v1\KlinikController@destroy');
-Route::get('/v1/klinik/{kduser?}', 'api\v1\KlinikController@show');
+// Route::get('/v1/klinik/{kduser?}', 'api\v1\KlinikController@show');
 Route::get('/v1/klinik', 'api\v1\KlinikController@index');
 
 
